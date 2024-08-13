@@ -22,7 +22,8 @@ Sigue los pasos a continuación para clonar y ejecutar este proyecto en tu entor
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone ...
+   HTTPS: git clone https://github.com/SoteloJoaquin/empresa-limpieza.git
+   SSH: git clone git@github.com:SoteloJoaquin/empresa-limpieza.git
    ```
 
 2. **Instalar dependencias de PHP:**
